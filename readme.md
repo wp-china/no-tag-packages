@@ -8,4 +8,4 @@
 
 [0]: https://github.com/wp-china-yes/update-no-tag-package
 
-需要特别说明一下，打不打Tag并不能代表其开发者的个人水平，这只是一个习惯问题而已，WordPress官方允许不打Tag。
+**需要特别说明一下，打不打Tag并不能代表其开发者的个人水平，这只是一个习惯问题而已，WordPress官方允许不打Tag。**
